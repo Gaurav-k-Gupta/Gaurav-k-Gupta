@@ -1,4 +1,4 @@
-![Hello! I'm Gaurav Kumar](https://user-images.githubusercontent.com/your-banner-image)
+
 
 # Hi there, I'm Gaurav! 👋
 
