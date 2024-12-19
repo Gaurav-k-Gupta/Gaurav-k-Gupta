@@ -40,6 +40,14 @@
 
 ---
 
+### 💻 Coding Profiles:
+
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Codewith_gaurav) - **LeetCode Stats**: [![LeetCode Stats](https://leetcard.jacoblin.cool/Codewith_gaurav)](https://leetcode.com/Codewith_gaurav)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gauravkrgupta0954) - **Rating**: [Your Rating]
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gauravgu4tww) - **GFG Stats**: [Your Stats]
+
+---
+
 ### 🌐 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-25554430b/)
