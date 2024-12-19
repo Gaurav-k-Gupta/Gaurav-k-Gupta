@@ -7,7 +7,7 @@
 - 💡 Passionate about building innovative web apps, exploring open-source projects, and solving real-world problems.
 - 🌱 Loves problem solving on platforms like leetcode, gfg and codeforces.
 - 🎨 AI/ML Enthusiast
-- 🌍 Based in [Patna].
+- 🌍 Sitamarhi, Bihar
 
 ---
 
