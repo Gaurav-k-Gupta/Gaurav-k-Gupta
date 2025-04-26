@@ -36,7 +36,6 @@
 ### 🏅 Badges
 
 [![An image of @gauravkr54's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravkr54)](https://holopin.io/@gauravkr54)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Gaurav-k-Gupta}.${Gaurav-k-Gupta}&left_color=green&right_color=red)
 
 ---
 
