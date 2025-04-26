@@ -36,8 +36,7 @@
 ### 🏅 Badges
 
 [![An image of @gauravkr54's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravkr54)](https://holopin.io/@gauravkr54)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gaurav-k-Gupta.Gaurav-k-Gupta)](https://github.com/Gaurav-k-Gupta)
-[![GitHub Sponsor](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Sponsor-blue?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/gauravkr54)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Gaurav-k-Gupta}.${Gaurav-k-Gupta}&left_color=green&right_color=red)
 
 ---
 
